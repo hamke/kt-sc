@@ -1,0 +1,3 @@
+#Ads.txt www.wp-kr.com 20191206
+
+#google.com, pub-1087484447886876, DIRECT
