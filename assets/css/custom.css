@@ -1,0 +1,17 @@
+.navbar-light .navbar-toggler {
+  border: 0!important;
+}
+
+@media screen and (max-width:600px) {
+  .navbar-brand {
+    padding-right: 1.5rem!important;
+  }
+}
+
+.navbar-toggler:focus {
+  -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	border: 0px!important;
+  outline: 0px!important;
+}
